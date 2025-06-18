@@ -21,7 +21,7 @@ Training Command:
     python scripts/training.py
 
 - All outputs will be saved in the `Output/` directory.
-- To use a different random seed, edit the `random_state` of each model in `scripts/training_and_prediction.py`.
+- To use a different random seed, edit the `random_state` of each model in `scripts/training.py`.
 
 Notes:
 - A subset of the GDB13 dataset is used. It is located at: `dataset/GDB13_subset/`
